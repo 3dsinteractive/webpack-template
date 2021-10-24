@@ -1,4 +1,4 @@
-import { formData } from "./forms"
+import { formData } from './forms'
 
 const form = document.querySelector('form')
 
