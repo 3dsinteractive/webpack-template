@@ -4,7 +4,7 @@ module.exports = {
   entry: {
     index: './src/index.ts',
   },
-  mode: 'development',
+  mode: 'production',
   target: 'web',
   module: {
     rules: [
